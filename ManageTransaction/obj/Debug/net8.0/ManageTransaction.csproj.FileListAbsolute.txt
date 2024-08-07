@@ -1,0 +1,14 @@
+C:\Docs\Wil\PracticasDotNet\TransactionsLibrary\ManageTransaction\ManageTransaction\bin\Debug\net8.0\ManageTransaction.deps.json
+C:\Docs\Wil\PracticasDotNet\TransactionsLibrary\ManageTransaction\ManageTransaction\bin\Debug\net8.0\ManageTransaction.runtimeconfig.json
+C:\Docs\Wil\PracticasDotNet\TransactionsLibrary\ManageTransaction\ManageTransaction\bin\Debug\net8.0\ManageTransaction.dll
+C:\Docs\Wil\PracticasDotNet\TransactionsLibrary\ManageTransaction\ManageTransaction\bin\Debug\net8.0\ManageTransaction.pdb
+C:\Docs\Wil\PracticasDotNet\TransactionsLibrary\ManageTransaction\ManageTransaction\obj\Debug\net8.0\ManageTransaction.csproj.AssemblyReference.cache
+C:\Docs\Wil\PracticasDotNet\TransactionsLibrary\ManageTransaction\ManageTransaction\obj\Debug\net8.0\ManageTransaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Docs\Wil\PracticasDotNet\TransactionsLibrary\ManageTransaction\ManageTransaction\obj\Debug\net8.0\ManageTransaction.AssemblyInfoInputs.cache
+C:\Docs\Wil\PracticasDotNet\TransactionsLibrary\ManageTransaction\ManageTransaction\obj\Debug\net8.0\ManageTransaction.AssemblyInfo.cs
+C:\Docs\Wil\PracticasDotNet\TransactionsLibrary\ManageTransaction\ManageTransaction\obj\Debug\net8.0\ManageTransaction.csproj.CoreCompileInputs.cache
+C:\Docs\Wil\PracticasDotNet\TransactionsLibrary\ManageTransaction\ManageTransaction\obj\Debug\net8.0\ManageTransaction.dll
+C:\Docs\Wil\PracticasDotNet\TransactionsLibrary\ManageTransaction\ManageTransaction\obj\Debug\net8.0\refint\ManageTransaction.dll
+C:\Docs\Wil\PracticasDotNet\TransactionsLibrary\ManageTransaction\ManageTransaction\obj\Debug\net8.0\ManageTransaction.pdb
+C:\Docs\Wil\PracticasDotNet\TransactionsLibrary\ManageTransaction\ManageTransaction\obj\Debug\net8.0\ManageTransaction.genruntimeconfig.cache
+C:\Docs\Wil\PracticasDotNet\TransactionsLibrary\ManageTransaction\ManageTransaction\obj\Debug\net8.0\ref\ManageTransaction.dll

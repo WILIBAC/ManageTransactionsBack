@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NaCXScHz3449J8Ps0dYWKxlILHnVUezUkDv5mNj+oBk=",
+  "Source": "ReceiveApi",
+  "BasePath": "_content/ReceiveApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
